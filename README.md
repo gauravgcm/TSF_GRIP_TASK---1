@@ -1,1 +1,1 @@
-Predict the percentage of an student based on the no. of study hours using Supervised ML
+Predict The Percentage Of a Student Based On The No. Of Study Hours Using Supervised ML.
